@@ -1,0 +1,17 @@
+
+The following files have been resolved:
+   org.springframework.boot:spring-boot-starter-actuator:jar:2.6.5:compile[36m -- module spring.boot.starter.actuator[0;1m [auto][m
+   org.springframework.boot:spring-boot-starter-data-jpa:jar:2.6.5:compile[36m -- module spring.boot.starter.data.jpa[0;1m [auto][m
+   org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.6.5:compile[36m -- module spring.boot.starter.thymeleaf[0;1m [auto][m
+   org.springframework.boot:spring-boot-starter-web:jar:2.6.5:compile[36m -- module spring.boot.starter.web[0;1m [auto][m
+   org.springframework.boot:spring-boot-devtools:jar:2.6.5:runtime (optional)[36m -- module spring.boot.devtools[0;1m [auto][m
+   mysql:mysql-connector-java:jar:8.0.28:compile[36m -- module mysql.connector.java[0;1;33m (auto)[m
+   org.springframework.boot:spring-boot-starter-data-jdbc:jar:2.6.5:compile[36m -- module spring.boot.starter.data.jdbc[0;1m [auto][m
+   com.h2database:h2:jar:1.4.200:test[36m -- module com.h2database[0;1m [auto][m
+   org.projectlombok:lombok:jar:1.18.22:compile (optional)[36m -- module lombok[m
+   org.springframework.boot:spring-boot-starter-test:jar:2.6.5:test[36m -- module spring.boot.starter.test[0;1m [auto][m
+   org.springframework.boot:spring-boot-starter-validation:jar:2.6.5:compile[36m -- module spring.boot.starter.validation[0;1m [auto][m
+   org.springframework.boot:spring-boot-starter-security:jar:2.6.5:compile[36m -- module spring.boot.starter.security[0;1m [auto][m
+   org.springframework.boot:spring-boot-starter-mail:jar:2.6.5:compile[36m -- module spring.boot.starter.mail[0;1m [auto][m
+   com.razorpay:razorpay-java:jar:1.3.9:compile[36m -- module razorpay.java[0;1;33m (auto)[m
+

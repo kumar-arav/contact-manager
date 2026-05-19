@@ -9,5 +9,4 @@ class MySpringBootAa29iiiContactManagerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
